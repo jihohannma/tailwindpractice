@@ -2,4 +2,4 @@
 
 This is Tailwind CSS Practice
 
-[View Site] 
+[View Site] (https://github.com/jihohannma/tailwindpractice.git)
